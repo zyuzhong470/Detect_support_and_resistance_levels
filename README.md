@@ -6,7 +6,7 @@
 
 ---
 
-`Detect_support_and_resistance_levels` 是一个本地化的技术分析工具，提供 Web UI 和 Python API，用于从 OHLCV K 线中识别支撑/阻力位，并给出每个关键位的历史统计置信度（触及概率 × 守住概率）。
+`Detect_support_and_resistance_levels` 是一个技术分析交易员专用工具，提供 Web UI 和 Python API，用于从 OHLCV K 线中识别支撑/阻力位，并给出每个关键位的历史统计置信度（触及概率 × 守住概率）。
 
 ![界面截图 1](png/1.png)
 
